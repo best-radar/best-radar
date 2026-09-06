@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5+GitHub-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5+open-source+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8;%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0+%D0%BD%D0%B0+best-radar.github.io)]([[https://best-radar.github.io](https://best-radar.github.io)](https://best-radar.github.io))
+<a href="https://best-radar.github.io" target="_blank">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5+GitHub-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5+open-source+%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8;%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0+%D0%BD%D0%B0+best-radar.github.io)]([[https://best-radar.github.io](https://best-radar.github.io)](https://best-radar.github.io))</a>
 
 <a href="https://best-radar.github.io" target="_blank"><img src="https://img.shields.io/badge/Сайт-best--radar.github.io-0969da?logo=githubpages&logoColor=white&style=for-the-badge" alt="Сайт Best Radar"/></a>
 <a href="https://github.com/best-radar" target="_blank"><img src="https://img.shields.io/badge/GitHub-best--radar-24292f?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
